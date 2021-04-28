@@ -1,3 +1,3 @@
 # PinkApple
 
-Jogo desenvolvido por Laix Fernanda e Jainne Agatha
+Jogo desenvolvido por Laiz Fernanda e Jainne Agatha
